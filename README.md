@@ -7,4 +7,4 @@ For the selected track (or the first one if none is selected), enables the effec
 
 ## Usage
 
-Import the scripts in Reaper DAW and assign a CC# MIDI command as a Action Shortcut
+Import the scripts in Reaper DAW and assign a CC# MIDI command as an Action Shortcut
